@@ -1,0 +1,12 @@
+access-sw-01:
+  ipaddress: 172.16.255.11
+  username: cisco
+  password: cisco
+  transport: ssh
+  nos: ios
+access-sw-02:
+  ipaddress: 172.16.255.11
+  username: cisco
+  password: cisco
+  transport: ssh
+  nos: iosxe
