@@ -1,0 +1,8 @@
+device_details:
+    cisco_ios: "show version"
+ospf:
+  cisco_ios: "show ip ospf"
+  cisco_iosxr: "show ospf"
+ospf_interface:
+  cisco_ios: "show ip ospf interface brief"
+  cisco_iosxr: "show ospf interface brief"
